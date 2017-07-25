@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 2KVj+3NYMrDXyFSiYK7o8m/bYpI=
+
+Name: firmware-update/BTFM.bin
+SHA1-Digest: zflD7wKYm+1OrMXtO3u+8EKNESg=
+
+Name: META-INF/com/miui/miui_update
+SHA1-Digest: yqjzQ44DWnKk8vYgJQyJJbI7QUI=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system.transfer.list
+SHA1-Digest: 66Ms35rK41y0mePIgvuHtKSRA9Q=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: ae6JP8zDRs79riWRLvkYHdfXe2E=
+
+Name: firmware-update/keymaster.mbn
+SHA1-Digest: 9Y+DX31zFBzRFgDMttCyV5IvxcU=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: GYRMBnJVIruDasReig68oBxBPUQ=
+
+Name: firmware-update/xbl.elf
+SHA1-Digest: 16TzS6JSg+Z/qjwIZV6ZWzd45bA=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: 0G9wPNdbXGOCKsa1iJduMlGnCEg=
+
+Name: firmware-update/cmnlib64.mbn
+SHA1-Digest: hyXNsTih+ITeTHj3OsdFI1q0WRo=
+
+Name: file_contexts.bin
+SHA1-Digest: vQl/xFC3kgMGugMh6RrZ05it4Gc=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: SpUFtDvTOsbafqDZqJyr6nUzjW4=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: mEKEpmpDWNNUjnY0ChdXs96iir0=
+
+Name: firmware-update/hyp.mbn
+SHA1-Digest: iG5YoYsboRD02HEfkT8qkjt2pxY=
+
+Name: boot.img
+SHA1-Digest: JUsa5RooKoRytuSjTYc1xXA21y4=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: jqoIhvePZAZ39RW+wm3HzDnxXK4=
+
+Name: firmware-update/splash.img
+SHA1-Digest: M3qymH8q+UewyABHIvDvnV1jEh8=
+
+Name: system.new.dat
+SHA1-Digest: R97THgbijWNttvokaXRLx/5+ik0=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: EyJ+C3DW1BKJfllFpsRvGGbQQIQ=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: mRNsWTJveyhDoOLzXKLRGitUR0s=
+
+Name: firmware-update/logo.img
+SHA1-Digest: PlEomJ7hWkpCqEUVc0ca47NCF4c=
+
+Name: firmware-update/pmic.elf
+SHA1-Digest: wdG12XtJ7op7pTLeWetOM46Rpjs=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: TwDdPjfJI02XOlJTC/x2MH+nxTA=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: dTKgWWi+pCNRatEsRiJkjtrQNcA=
+
