@@ -1,0 +1,14 @@
+script:
+- newVersion=$(git describe) && zip -r capricornCNFirmware-${newVersion}.zip ./firmware-update ./META-INF
+- mkdir mountpoint && sudo mount -o loop firmware-update/NON-HLOS.bin mountpoint && verInfo=$(cat mountpoint/verinfo/ver_info.txt) && readme=$(echo "$verInfo" | tr -d '"\n{}')
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: TNktpr2XVgw6nDum4YbCv9/wgktvoBCXOkECllzbekmXPMRJUNMtaB9Rf6hzpUbW6Nxa3+SfhqOOPSviYy0ock3u2P3GtDWl9hsRowbODaSbUJ6l1ZcXi5V9Q73xpXjwdbvNYHpStvPoHl9TnYaRCOt78qzVv2mPpHuqMf5xsKoXgQmK+iWIL3KiWkrGuyssc0ToG3Zo8pz02Vcl+QXtnEnF/81AQrOlsliEMHxBDwjrMPeZryNI62hNeqGIn9I+V7ljIDwOOBY8lhc4osFnPBnPi93JPf+J7d2RDCpz0XhOApu3uO4fIkW6Qar7SLYZRegHb8Ef9azH2I2ebkx6d6pknO8UNN+pL85q5sOyvB80f60Ffvu1sQdqLjcHRKom35V+X6nPqL4i7fr6mA1rxMBjuSjE/R1AlrHsgQt4RwjBW+v23M3bB5bC+FMsBQQdJAqRXmoLcnGRMr+ONVCr7MRw2wwDqDdspsSgP7PF/znxUlPaD4OtXfs9FIdOv2wXiTIZFcJC3dvPIDbueiIVNLU3VoQEGsmxWWyTLTLb714nRLXHHlyt5JNXeA4vJX7KX4WZREmpscfZEEyMemRV8ZewgzxxpS6Cm+6UHbxw6dJ43ObjQzNYrTlQO9nIo/0OR9fRz9RJ2RhWY9PZodTC23wwYtIQqzFGvWwPEWy7YeQ=
+  file: 'capricornCNFirmware-${newVersion}.zip'
+  body: "${readme}"
+  on:
+    repo: fjtrujy/capricornCNFirmware
+    tags: true
+    overwrite: true
