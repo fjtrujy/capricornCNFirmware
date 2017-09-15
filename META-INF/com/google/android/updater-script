@@ -1,5 +1,5 @@
 getprop("ro.product.device") == "capricorn" || abort("E3004: This package is for \"capricorn\" devices; this is a \"" + getprop("ro.product.device") + "\".");
-ui_print("Target: Xiaomi/capricorn/capricorn:7.0/NRD90M/7.9.8:user/release-keys");
+ui_print("Target: Xiaomi/capricorn/capricorn:7.0/NRD90M/7.9.14:user/release-keys");
 show_progress(0.200000, 10);
 
 # ---- radio update tasks ----
