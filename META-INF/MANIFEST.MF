@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: MgE1nYDgyKixVQ58QoM56IGU1N8=
+SHA1-Digest: 23YVpFZbpG1ifxeOHuxr3vlu1JE=
 
 Name: firmware-update/BTFM.bin
-SHA1-Digest: F+A1p/RgA8vE1FCWOLL3gCrxSY8=
+SHA1-Digest: 382Ld7TemQazN2Hz7VayHndFptM=
 
 Name: META-INF/com/miui/miui_update
 SHA1-Digest: VyEH3iN2mZgaJ7LxOztjUv+XGMw=
@@ -14,28 +14,28 @@ Name: system.patch.dat
 SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 
 Name: system.transfer.list
-SHA1-Digest: B7xlE6fCFpGDR8D1MTNtK2Ixdzk=
+SHA1-Digest: PMT46KWSBPUIfWxJ1UshkU830NE=
 
 Name: firmware-update/devcfg.mbn
-SHA1-Digest: Q940xeTSOWRKeacNvZCl8iPb3YA=
+SHA1-Digest: kqunla6fkRjibRpKmQD7WKID2Z4=
 
 Name: firmware-update/keymaster.mbn
-SHA1-Digest: 8pS+2dIALNzEDGAAh/b4sDsb+zc=
+SHA1-Digest: W71i4IUMuPIXAFXkGd7dQkOv+qY=
 
 Name: META-INF/com/android/metadata
-SHA1-Digest: ZAD71rJRBsA5Dv8F0O5hDegojEE=
+SHA1-Digest: HpE9BRYBhbW6gAKG6W7SZrxCyAc=
 
 Name: firmware-update/xbl.elf
-SHA1-Digest: tZVule1S7vouHfb5y7FNxCtJFC0=
+SHA1-Digest: CYXzGDWIPCqe6qBIZgtmA0RdwuA=
 
 Name: firmware-update/NON-HLOS.bin
-SHA1-Digest: KzEYQnyieDXlE737r9/HQCt968c=
+SHA1-Digest: 41WFlHQCRAsLu/Na62srP+Lke20=
 
 Name: firmware-update/cmnlib64.mbn
-SHA1-Digest: bO0i5felw270dkb26kqu1tDu1N4=
+SHA1-Digest: yTSJKtZUCL+bCVQD6VW/EqGNoyo=
 
 Name: file_contexts.bin
-SHA1-Digest: 3xweVKZHc4izgSmwG7C5Ue/LnJs=
+SHA1-Digest: 8W+OXBdYDhmHRJyfsplSU0vo3YY=
 
 Name: firmware-update/adspso.bin
 SHA1-Digest: SpUFtDvTOsbafqDZqJyr6nUzjW4=
@@ -44,37 +44,37 @@ Name: META-INF/com/android/otacert
 SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
 
 Name: META-INF/com/google/android/update-binary
-SHA1-Digest: ipQM5SbWL7O36WwxParcTIIUFD4=
+SHA1-Digest: vUq1JUmApQKJ23k36OKzpYIizb4=
 
 Name: firmware-update/hyp.mbn
-SHA1-Digest: BhTdX3wZjrV6yZgTouSXiI9TcoU=
+SHA1-Digest: zvHgMNWvMEZSY4pxviCumLFW8ig=
 
 Name: boot.img
-SHA1-Digest: XfxGSh0v7hArKPS88WDZYX+rWTI=
+SHA1-Digest: MrpOP2EKOPYlxVsP+ajPnKNZGlE=
 
 Name: firmware-update/lksecapp.mbn
-SHA1-Digest: 0n3aOot3ZYfV+IC9vKYfOqLH+Uk=
+SHA1-Digest: p/hS6XMGBwRgmHHvUids/V0EGow=
 
 Name: firmware-update/splash.img
 SHA1-Digest: M3qymH8q+UewyABHIvDvnV1jEh8=
 
 Name: system.new.dat
-SHA1-Digest: xjn2x7uZrsDsPNTdlXZZrOgdYjE=
+SHA1-Digest: FKZFkaCP+NVWINda/K9+iLDdvOs=
 
 Name: firmware-update/rpm.mbn
-SHA1-Digest: +vyRvvVvemMO/Ieo5/GYLbBzOuk=
+SHA1-Digest: iJVF0jauN2Rr83jKARsJ+EIg2nI=
 
 Name: firmware-update/tz.mbn
-SHA1-Digest: qUfbLstEIGRpWQjbq2kNegNM4/4=
+SHA1-Digest: yenn7m5I/q3cCs8idccbay6cSl0=
 
 Name: firmware-update/logo.img
 SHA1-Digest: PlEomJ7hWkpCqEUVc0ca47NCF4c=
 
 Name: firmware-update/pmic.elf
-SHA1-Digest: OMCc4vVFq1vYLmTZQl66HyxYylw=
+SHA1-Digest: gMmhA6ccBP/iv/nh/IkQsysgyG8=
 
 Name: firmware-update/cmnlib.mbn
-SHA1-Digest: 8yTLSjgQds7d0smeZf9X2P34B+g=
+SHA1-Digest: DcD6MR6z2xezfLZqxqZwCDPBqoQ=
 
 Name: firmware-update/emmc_appsboot.mbn
 SHA1-Digest: /UR4nG7qxe8xLR1X6IIjf1ZIsWI=
