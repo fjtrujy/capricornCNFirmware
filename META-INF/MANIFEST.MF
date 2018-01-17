@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: 23YVpFZbpG1ifxeOHuxr3vlu1JE=
+SHA1-Digest: tozleE76luWX7Yf2dbi/lPHm9Dg=
 
 Name: firmware-update/BTFM.bin
 SHA1-Digest: 382Ld7TemQazN2Hz7VayHndFptM=
@@ -14,7 +14,7 @@ Name: system.patch.dat
 SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 
 Name: system.transfer.list
-SHA1-Digest: PMT46KWSBPUIfWxJ1UshkU830NE=
+SHA1-Digest: JrQBkN1O3+A3lqvRTF8pkedu8/0=
 
 Name: firmware-update/devcfg.mbn
 SHA1-Digest: kqunla6fkRjibRpKmQD7WKID2Z4=
@@ -23,7 +23,7 @@ Name: firmware-update/keymaster.mbn
 SHA1-Digest: W71i4IUMuPIXAFXkGd7dQkOv+qY=
 
 Name: META-INF/com/android/metadata
-SHA1-Digest: HpE9BRYBhbW6gAKG6W7SZrxCyAc=
+SHA1-Digest: gRLeoIM45095hq7LXzdb0+iV7n4=
 
 Name: firmware-update/xbl.elf
 SHA1-Digest: CYXzGDWIPCqe6qBIZgtmA0RdwuA=
@@ -50,7 +50,7 @@ Name: firmware-update/hyp.mbn
 SHA1-Digest: zvHgMNWvMEZSY4pxviCumLFW8ig=
 
 Name: boot.img
-SHA1-Digest: MrpOP2EKOPYlxVsP+ajPnKNZGlE=
+SHA1-Digest: skeVtPV416kFL3B3FaSffquIfEM=
 
 Name: firmware-update/lksecapp.mbn
 SHA1-Digest: p/hS6XMGBwRgmHHvUids/V0EGow=
@@ -59,7 +59,7 @@ Name: firmware-update/splash.img
 SHA1-Digest: M3qymH8q+UewyABHIvDvnV1jEh8=
 
 Name: system.new.dat
-SHA1-Digest: FKZFkaCP+NVWINda/K9+iLDdvOs=
+SHA1-Digest: La2LkOpWDAT2bNCgASLsELcHoDY=
 
 Name: firmware-update/rpm.mbn
 SHA1-Digest: iJVF0jauN2Rr83jKARsJ+EIg2nI=
